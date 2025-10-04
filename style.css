@@ -1,0 +1,107 @@
+body {
+    font-family: sans-serif;
+    background-color: #BEA327;
+    
+}
+
+h1 {
+   
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    
+}
+nav a{
+    background-color: #725E00;
+    color: white;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    height: 20px;
+    text-decoration: none;
+    text-align: center;
+}
+
+
+h2 {
+    
+}
+
+footer {
+    background-color: #9B8310;
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+ display: flex;
+    justify-content: center;
+}
+
+.logo{
+   display: flex;
+   background-color: #9B8310;
+}
+
+
+
+
+h4{
+    background-color: #725E00;
+    border-radius: 10px;
+    padding: 20px;
+    color: white;
+    margin: 50px;
+ 
+    justify-content: center;
+    display: flex;
+}
+.capybara{
+    width: 300px;
+    justify-content: center;
+    display: flex;
+
+}
+p{
+
+    justify-content: center;
+    background-color: #725E00;
+    text-align: center;
+    margin: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 20px;
+    border-radius: 60px;
+    display: flex;
+    
+}
+.footer1{
+background-color: #725E00;
+text-align: left;
+margin: 10px;
+padding: 10px;
+}
+.footer2{
+background-color: #725E00;
+text-align: left;
+margin: 10px;
+padding: 10px;
+}
+.capy{
+width: 200px;
+
+
+}
+.capy2{
+    background-color: #9B8310;
+   
+}
+.footer3{
+    width: 400px;
+
+}
+.footer4{
+    display: flex;
+    width: 500px;
+    flex-wrap: wrap;
+}
