@@ -6,7 +6,11 @@ body {
 h1 {
    
 }
-
+main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
 nav {
     display: flex;
     justify-content: space-between;
